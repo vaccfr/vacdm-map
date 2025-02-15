@@ -1,6 +1,6 @@
 # vACDM GeoJSON Map
 
-Generate a GeoJSON Map with the data retrieved from the [vACDM endpoint API](http://vacdm.vatsim.fr).
+Generate a GeoJSON Map with the data retrieved from the [vACDM endpoint API](http://cdm.vatsim.fr).
 
 A GitHub workflow generates the GeoJSON file on request: ![generate](https://github.com/vaccfr/vacdm-map/actions/workflows/generate_geojson.yml/badge.svg)
 
