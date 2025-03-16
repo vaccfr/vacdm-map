@@ -2460,7 +2460,7 @@
       "properties": {
         "icao": "LFBO",
         "label": "ST-MARTIN",
-        "taxiout": true,
+        "taxiout": false,
         "14L": 12,
         "14R": 11,
         "32L": 6,
@@ -2503,11 +2503,11 @@
       "properties": {
         "icao": "LFBO",
         "label": "MORVAN Est",
-        "taxiout": true,
+        "taxiout": false,
         "14L": 12,
         "14R": 11,
-        "32L": 4,
-        "32R": 7
+        "32L": 6,
+        "32R": 9
       }
     },
     {
@@ -2558,7 +2558,7 @@
       "properties": {
         "icao": "LFBO",
         "label": "MORVAN Ouest / LANDES",
-        "taxiout": true,
+        "taxiout": false,
         "14L": 12,
         "14R": 11,
         "32L": 6,
@@ -2605,7 +2605,7 @@
       "properties": {
         "icao": "LFBO",
         "label": "PYRENEES",
-        "taxiout": true,
+        "taxiout": false,
         "14L": 12,
         "14R": 11,
         "32L": 5,
