@@ -2649,8 +2649,8 @@
         "icao": "LFML",
         "label": "Cargo",
         "taxiout": false,
-        "13L": 6,
-        "31R": 9
+        "13L": 7,
+        "31R": 10
       }
     },
     {
@@ -2690,8 +2690,8 @@
         "icao": "LFML",
         "label": "G/A",
         "taxiout": false,
-        "13L": 5,
-        "31R": 8
+        "13L": 6,
+        "31R": 9
       }
     },
     {
@@ -2727,8 +2727,8 @@
         "icao": "LFML",
         "label": "50 - 57",
         "taxiout": true,
-        "13L": 5,
-        "31R": 6
+        "13L": 6,
+        "31R": 7
       }
     },
     {
@@ -2764,8 +2764,8 @@
         "icao": "LFML",
         "label": "Terminal 2",
         "taxiout": true,
-        "13L": 5,
-        "31R": 6
+        "13L": 6,
+        "31R": 7
       }
     },
     {
@@ -2801,8 +2801,8 @@
         "icao": "LFML",
         "label": "7 - 10",
         "taxiout": false,
-        "13L": 8,
-        "31R": 9
+        "13L": 9,
+        "31R": 10
       }
     },
     {
@@ -2838,8 +2838,8 @@
         "icao": "LFML",
         "label": "1 - 6",
         "taxiout": false,
-        "13L": 9,
-        "31R": 8
+        "13L": 10,
+        "31R": 9
       }
     },
     {
@@ -2879,8 +2879,8 @@
         "icao": "LFML",
         "label": "25 - 45",
         "taxiout": true,
-        "13L": 7,
-        "31R": 6
+        "13L": 8,
+        "31R": 7
       }
     },
     {
@@ -2920,8 +2920,8 @@
         "icao": "LFML",
         "label": "S\u00e9curit\u00e9 Civile",
         "taxiout": true,
-        "13L": 7,
-        "31R": 4
+        "13L": 8,
+        "31R": 5
       }
     }
   ]
