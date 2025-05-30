@@ -2,6 +2,8 @@ name: Generate GeoJSON
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 3 1,15 * *"  # Runs on the 1st and 15th of every month at 03:00 UTC
 
 jobs:
   generate:
@@ -15,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
         
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
 
       - name: Install dependencies
         run: |
