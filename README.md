@@ -10,7 +10,9 @@ Available airports:
 
 | ICAO | Name                    |
 |------|-------------------------|
+| LFBO | Toulouse Blagnac        |
 | LFLL | Lyon Saint-Exupery      |
-| LFMN | Nice                    |
+| LFML | Marseille Provence      |
+| LFMN | Nice Côte d'Azur        |
 | LFPG | Paris Charles de Gaulle | 
 | LFPO | Paris Orly              |
